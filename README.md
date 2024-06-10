@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.wakhidpangestu.netlify.app](https://portfolio.wakhidpangestu.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio.wakhidpangestu.vercel.app](https://portfolio.wakhidpangestu.vercel.app)
 
 - 💬 Ask me about **React, JS and UI Design**
 
