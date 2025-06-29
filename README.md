@@ -3,7 +3,7 @@
 
 <!-- 🎨 Futuristic Coding Illustration -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhwOWxxYTljbmh2Mmt0aDU3cHFyM3FjbGQzNjM0aHB1dW1rcDd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jLGTaEAJikofI6msHC/giphy.gif" width="100%" alt="Web3 Futuristic Animation" />
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFyeHZyNnNwaGlndGdjNnozZWVkbjVmYnJkZDV2bzRxb29yamVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" alt="Web3 Futuristic Animation" />
 </p>
 
 <h1 align="center">Wakhid Pangestu</h1>
