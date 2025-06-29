@@ -3,11 +3,11 @@
 
 <!-- 🎨 Futuristic Coding Illustration -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f2/67/cb/f267cb22cf4bb64d6ce0e7c07b3ab7f7.gif" width="400" alt="Web3 Dev Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Futuristic Web Dev Animation"/>
 </p>
 
 <h1 align="center">Wakhid Pangestu</h1>
-<h3 align="center">⚡ Frontend & Web3 Developer | React & Next.js Aficionado | UI/UX Designer</h3>
+<h3 align="center">⚡ Frontend & Web3 Developer | UI/UX Designer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wakhidpangestu&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
