@@ -2,9 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Wakhid+Pangestu;Frontend+Developer+%7C+React+%26+Web3+Enthusiast;Let’s+build+beautiful+and+scalable+web+apps!)](https://git.io/typing-svg)
 
 <!-- Avatar / Cover Art -->
-<p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/f2/67/cb/f267cb22cf4bb64d6ce0e7c07b3ab7f7.gif" width="400" alt="Web3 Dev"/>
-</p>
+<img align="center" src="https://i.pinimg.com/originals/f2/67/cb/f267cb22cf4bb64d6ce0e7c07b3ab7f7.gif" width="400" alt="Web3 Dev"/>
 
 <h1 align="center">Wakhid Pangestu</h1>
 <h3 align="center">💻 Frontend & Web3 Developer | All About Next.js & React | UI/UX Designer</h3>
