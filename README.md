@@ -3,7 +3,7 @@
 
 <!-- Avatar / Cover Art -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding animation" width="400"/>
+  <img align="center" src="https://i.pinimg.com/originals/f2/67/cb/f267cb22cf4bb64d6ce0e7c07b3ab7f7.gif" width="400" alt="Web3 Dev"/>
 </p>
 
 <h1 align="center">Wakhid Pangestu</h1>
