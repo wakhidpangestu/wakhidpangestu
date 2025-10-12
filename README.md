@@ -3,8 +3,9 @@
 
 <!-- 🎨 Futuristic Coding Illustration -->
 <p align="center">
-  <img src=https://i.giphy.com/26BRGoqbUQvk8nwTC.webp" width="100%" alt="Web3 Futuristic Animation" />
+  <img src="https://i.giphy.com/26BRGoqbUQvk8nwTC.webp" width="100%" alt="Web3 Futuristic Animation" />
 </p>
+
 
 <h1 align="center">Wakhid Pangestu</h1>
 <h3 align="center">⚡ Frontend & Web3 Developer | UI/UX Designer</h3>
