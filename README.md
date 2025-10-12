@@ -45,16 +45,16 @@
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/wakhid-pangestu" target="_blank">
+  <a href="https://linkedin.com/in/wakhidpangestu" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/zenspectra" target="_blank">
+  <a href="https://instagram.com/wakhidpangestu" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:wakhidpangestu975@gmail.com">
+  <a href="mailto:wakhidpangestu1@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wakhidpangestu.vercel.app" target="_blank">
+  <a href="https://www.wakhidpangestu.my.id" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" />
   </a>
 </p>
