@@ -1,0 +1,127 @@
+<svg width="760" height="496" viewBox="0 0 760 496" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { --track: #151833; }
+  </style>
+  <rect x="0" y="0" width="760" height="496" rx="18" fill="#07091a" stroke="#1c2140" stroke-width="1"/>
+  <text x="40" y="46" font-size="20" font-weight="700" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">Tech Stack Dashboard</text>
+  <text x="40" y="70" font-size="13" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif">Auto-generated from public repositories · classified as Frontend-leaning Developer</text>
+  
+      <text x="40" y="100" font-size="13" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif" font-weight="600">Frontend</text>
+      <text x="720" y="100" font-size="13" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">71.9%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-108" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#22d3ee"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="108" width="680" height="10" rx="6" fill="var(--track)"/>
+    <rect x="40" y="108" width="488.75" height="10" rx="6" fill="url(#grad-40-108)"/>
+  
+    
+      <text x="40" y="134" font-size="13" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif" font-weight="600">Backend</text>
+      <text x="720" y="134" font-size="13" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">24.0%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-142" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#818cf8"/>
+        <stop offset="100%" stop-color="#6366f1"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="142" width="680" height="10" rx="6" fill="var(--track)"/>
+    <rect x="40" y="142" width="162.91666666666669" height="10" rx="6" fill="url(#grad-40-142)"/>
+  
+    
+      <text x="40" y="168" font-size="13" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif" font-weight="600">Mobile</text>
+      <text x="720" y="168" font-size="13" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">4.2%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-176" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#34d399"/>
+        <stop offset="100%" stop-color="#10b981"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="176" width="680" height="10" rx="6" fill="var(--track)"/>
+    <rect x="40" y="176" width="28.33333333333333" height="10" rx="6" fill="url(#grad-40-176)"/>
+  
+    
+  <text x="40" y="230" font-size="14" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif" font-weight="700">Top Languages</text>
+      <text x="40" y="248" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">TypeScript</text>
+      <text x="720" y="248" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">43.8%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-256" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#22d3ee"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="256" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="256" width="297.5" height="8" rx="4" fill="url(#grad-40-256)"/>
+  
+    
+      <text x="40" y="282" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">JavaScript</text>
+      <text x="720" y="282" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">18.8%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-290" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#22d3ee"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="290" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="290" width="127.5" height="8" rx="4" fill="url(#grad-40-290)"/>
+  
+    
+      <text x="40" y="316" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">PHP</text>
+      <text x="720" y="316" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">14.6%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-324" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#818cf8"/>
+        <stop offset="100%" stop-color="#6366f1"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="324" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="324" width="99.16666666666669" height="8" rx="4" fill="url(#grad-40-324)"/>
+  
+    
+      <text x="40" y="350" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">Java</text>
+      <text x="720" y="350" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">9.4%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-358" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#818cf8"/>
+        <stop offset="100%" stop-color="#6366f1"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="358" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="358" width="63.75" height="8" rx="4" fill="url(#grad-40-358)"/>
+  
+    
+      <text x="40" y="384" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">CSS</text>
+      <text x="720" y="384" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">6.3%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-392" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#22d3ee"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="392" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="392" width="42.5" height="8" rx="4" fill="url(#grad-40-392)"/>
+  
+    
+      <text x="40" y="418" font-size="12" fill="#e6e9f5" font-family="'SF Pro Display','Segoe UI',sans-serif">Dart</text>
+      <text x="720" y="418" font-size="12" fill="#8b90b0" font-family="'SF Pro Display','Segoe UI',sans-serif" text-anchor="end">4.2%</text>
+      
+    <defs>
+      <linearGradient id="grad-40-426" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#34d399"/>
+        <stop offset="100%" stop-color="#10b981"/>
+      </linearGradient>
+    </defs>
+    <rect x="40" y="426" width="680" height="8" rx="4" fill="var(--track)"/>
+    <rect x="40" y="426" width="28.33333333333333" height="8" rx="4" fill="url(#grad-40-426)"/>
+  
+    
+</svg>
