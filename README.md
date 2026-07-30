@@ -164,12 +164,12 @@
   <!-- Baris 1: Stats + Streak -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07091A&title_color=9EFF00&icon_color=9EFF00&text_color=E6E9F5">
-    <img src="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&hide_border=true&title_color=9EFF00&icon_color=9EFF00" width="45%" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&hide_border=true&title_color=9EFF00&icon_color=9EFF00" width="49%" alt="" />
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=wakhidpangestu&theme=tokyonight&hide_border=true&background=07091A&stroke=1C2140&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wakhidpangestu&hide_border=true&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00" width="45%" alt="" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wakhidpangestu&hide_border=true&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00" width="49%" alt="" />
   </picture>
 </p>
 
@@ -177,12 +177,12 @@
   <!-- Baris 2: Top Langs + Activity Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&theme=tokyonight&hide_border=true&bg_color=07091A&title_color=9EFF00&text_color=E6E9F5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&hide_border=true&title_color=9EFF00" width="45%" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&hide_border=true&title_color=9EFF00" width="49%" alt="" />
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&theme=tokyo-night&hide_border=true&bg_color=07091A&color=9EFF00&line=9EFF00&point=E6E9F5">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&hide_border=true&color=9EFF00&line=9EFF00" width="45%" alt="" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&hide_border=true&color=9EFF00&line=9EFF00" width="49%" alt="" />
   </picture>
 </p>
 
