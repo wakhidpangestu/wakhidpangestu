@@ -187,7 +187,6 @@
 </p>
 
 <br/>
-
 <!-- ====== CONNECT ====== -->
 ## 🌐 Let's Connect
 
