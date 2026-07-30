@@ -98,13 +98,13 @@
 
 <!--START_SECTION:dashboard-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/dashboard-light.svg">
-  <img alt="Tech Stack Dashboard" src="./assets/dashboard-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dashboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dashboard-light.svg">
+  <img alt="Tech Stack Dashboard" src="./dashboard-light.svg" width="100%">
 </picture>
 <!--END_SECTION:dashboard-->
 
-<sub>⚙️ Auto-generated daily from public repositories via GitHub Actions — classifies languages into Frontend / Backend / Mobile and computes real percentages. See <a href="./scripts/generate-dashboard.mjs">scripts/generate-dashboard.mjs</a>.</sub>
+<sub>⚙️ Auto-generated daily from public repositories via GitHub Actions — classifies languages into Frontend / Backend / Mobile and computes real percentages. See <a href="./generate-dashboard.mjs">generate-dashboard.mjs</a>.</sub>
 
 </div>
 
