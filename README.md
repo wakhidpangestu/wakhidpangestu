@@ -91,6 +91,25 @@
 
 <br/>
 
+<!-- ====== TECH STACK DASHBOARD ====== -->
+## 📊 Tech Stack Dashboard
+
+<div align="center">
+
+<!--START_SECTION:dashboard-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/dashboard-light.svg">
+  <img alt="Tech Stack Dashboard" src="./assets/dashboard-light.svg" width="100%">
+</picture>
+<!--END_SECTION:dashboard-->
+
+<sub>⚙️ Auto-generated daily from public repositories via GitHub Actions — classifies languages into Frontend / Backend / Mobile and computes real percentages. See <a href="./scripts/generate-dashboard.mjs">scripts/generate-dashboard.mjs</a>.</sub>
+
+</div>
+
+<br/>
+
 <!-- ====== FEATURED PROJECTS ====== -->
 ## 🚀 Featured Projects
 
@@ -143,14 +162,12 @@
 
 <div align="center">
 
-| <!-- left column: 2 images (Stats + Top Langs) --> | <!-- right column: 2 images (Streak + Graph) --> |
+| <!-- kiri: 2 gambar --> | <!-- kanan: 2 gambar --> |
 |:---:|:---:|
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07091A&title_color=9EFF00&icon_color=9EFF00&text_color=E6E9F5"><img src="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&hide_border=true&title_color=9EFF00&icon_color=9EFF00" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=wakhidpangestu&theme=tokyonight&hide_border=true&background=07091A&stroke=1C2140&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=wakhidpangestu&hide_border=true&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00" width="100%" /></picture> |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&theme=tokyonight&hide_border=true&bg_color=07091A&title_color=9EFF00&text_color=E6E9F5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&hide_border=true&title_color=9EFF00" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&theme=tokyo-night&hide_border=true&bg_color=07091A&color=9EFF00&line=9EFF00&point=E6E9F5"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&hide_border=true&color=9EFF00&line=9EFF00" width="100%" /></picture> |
 
 </div>
-
-> **Catatan:** Di sebelah kiri grafik (kolom kiri) ada dua gambar: **Stats** dan **Top Langs** — semuanya sudah pakai endpoint `vercel.app` yang aktif, tidak ada lagi `herokuapp` yang mati.
 
 <br/>
 
