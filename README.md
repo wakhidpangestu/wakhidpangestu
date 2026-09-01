@@ -1,61 +1,136 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Wakhid+Pangestu;AI+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-1a1a2e?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1a1a2e?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Freelancer-1a1a2e?style=for-the-badge&logo=upwork&logoColor=white"/>
-</p>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Hi%20There,%20I'm%20Wakhid%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20|%20MQL5%20Developer%20|%20AI%20Mentor&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/wakhidpangestu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wakhidpangestu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/wakhidpangestu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:wakhidpangestu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8D58BF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%F0%9F%92%BB;MQL5+%2F+Trading+Bot+Developer+%F0%9F%93%88;AI+%26+LLM+Technical+Mentor+%F0%9F%A4%96;Building+ZenLabs+%26+Teknify+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+<!-- BUTTONS -->
+<a href="https://wa.me/62xxxxxxxxxx">
+  <img src="https://img.shields.io/badge/Hire%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-```python
-class WakhidPangestu:
-    def __init__(self):
-        self.name = "Wakhid Pangestu"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Depok, Indonesia"
-        self.education = "Computer Science @ UNINDRA"
-        self.freelance = "ZenLabs - Digital Solutions"
-        self.mission = "Building intelligent systems"
-🎯 Currently: Mentoring AI Engineers & Building LLMs, RAG, AI Applications
-🌱 Learning: Deep Learning, LLMs, RAG, AI Agents
-💼 Freelance: Available for projects — let's talk!
-🚀 Tech Stack
+- 🎓 Computer Science student at **Universitas Indraprasta PGRI (UNINDRA)**, frontend focus
+- 💼 Running freelance brand **ZenLabs** — open for freelance, contract, & internship roles
+- 🧑‍🏫 Technical Mentor at **Dicoding Community Network UNINDRA** (Python, LLM, RAG, AI Agents, LangChain)
+- 📈 Building **MQL5 Expert Advisors** for MetaTrader 5 (risk management, trading dashboards)
+- 🚀 Founder of **Teknify** — on-demand electronics repair platform with AI pre-diagnosis
+- 🌱 Currently exploring AI Agents, RAG pipelines, and LangChain
+- 📫 Reach me: **youremail@example.com**
 
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> </p>
-📊 GitHub Analytics
+<br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakhidpangestu&theme=radical&hide_border=true&bg_color=0d1117" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="50%" /> </p>
-🏆 Best Repositories
+## 🛠️ Tech Stack
 
-<p align="center"> <a href="https://github.com/wakhidpangestu/ai-chatbot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=ai-chatbot&theme=radical&hide_border=true" /> </a> <a href="https://github.com/wakhidpangestu/ecommerce-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=ecommerce-platform&theme=radical&hide_border=true" /> </a> </p><p align="center"> <a href="https://github.com/wakhidpangestu/restaurant-booking"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=restaurant-booking&theme=radical&hide_border=true" /> </a> <a href="https://github.com/wakhidpangestu/nextjs-portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=nextjs-portfolio&theme=radical&hide_border=true" /> </a> </p>
-📈 GitHub Commits Animation
+<div align="center">
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" /> </p>
-🤝 Let's Connect
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Platform	Link
-🌐 Portfolio	wakhidpangestu.my.id
-💼 LinkedIn	linkedin.com/in/wakhidpangestu
-📸 Instagram	@wakhidpangestu
-🐙 GitHub	github.com/wakhidpangestu
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wakhidpangestu&label=Profile+Views&color=blueviolet" /> <br> <i>⚡ "Turning Code into Intelligent Solutions" ⚡</i> </p> ```
+### AI / Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Trading / Tools
+![MQL5](https://img.shields.io/badge/MQL5-0B1B33?style=for-the-badge&logo=metatrader&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🔥 Best Repositories
+
+<div align="center">
+
+<a href="https://github.com/USERNAME/REPO-ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-ONE&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/USERNAME/REPO-TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-TWO&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/USERNAME/REPO-THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-THREE&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/USERNAME/REPO-FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-FOUR&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake (Animated)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> ⚙️ Setup snake animation via GitHub Action: [Platane/snk](https://github.com/Platane/snk) — auto-generate file di atas.
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=8D58BF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D58BF,100:6D5BBA&height=120&section=footer" width="100%"/>
+
+</div>
