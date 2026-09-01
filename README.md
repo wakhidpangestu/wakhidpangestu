@@ -17,10 +17,10 @@
 <a href="mailto:youremail@example.com">
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/USERNAME">
+<a href="https://linkedin.com/in/wakhidpangestu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com/wakhidpangestu">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -71,17 +71,17 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/REPO-ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-ONE&theme=radical&hide_border=true" />
+<a href="https://github.com/wakhidpangestu/REPO-ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=REPO-ONE&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/USERNAME/REPO-TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-TWO&theme=radical&hide_border=true" />
+<a href="https://github.com/wakhidpangestu/REPO-TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=REPO-TWO&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/USERNAME/REPO-THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-THREE&theme=radical&hide_border=true" />
+<a href="https://github.com/wakhidpangestu/REPO-THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=REPO-THREE&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/USERNAME/REPO-FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-FOUR&theme=radical&hide_border=true" />
+<a href="https://github.com/wakhidpangestu/REPO-FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wakhidpangestu&repo=REPO-FOUR&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -92,10 +92,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wakhidpangestu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wakhidpangestu&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidpangestu&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wakhidpangestu&theme=radical&no-frame=true&column=7&margin-w=8" />
 </div>
 
 <br/>
@@ -112,7 +112,7 @@
 ## 🐍 Contribution Snake (Animated)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/wakhidpangestu/wakhidpangestu/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 > ⚙️ Setup snake animation via GitHub Action: [Platane/snk](https://github.com/Platane/snk) — auto-generate file di atas.
@@ -122,14 +122,14 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakhidpangestu&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=8D58BF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=wakhidpangestu&color=8D58BF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D58BF,100:6D5BBA&height=120&section=footer" width="100%"/>
 
